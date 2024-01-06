@@ -1,5 +1,6 @@
 # Action Debugger
 
+
 Interactive debugger for GitHub Actions
 
 ## Usage
